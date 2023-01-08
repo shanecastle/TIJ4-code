@@ -1,5 +1,6 @@
 //: generics/CompilerIntelligence.java
 import java.util.*;
+import java.util.List;
 
 public class CompilerIntelligence {
   public static void main(String[] args) {

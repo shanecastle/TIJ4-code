@@ -3,6 +3,7 @@
 // {main: ApplyTest}
 import java.lang.reflect.*;
 import java.util.*;
+import java.util.List;
 import static net.mindview.util.Print.*;
 
 public class Apply {

@@ -1,5 +1,6 @@
 //: generics/GenericWriting.java
 import java.util.*;
+import java.util.List;
 
 public class GenericWriting {
   static <T> void writeExact(List<T> list, T item) {

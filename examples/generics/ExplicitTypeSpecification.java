@@ -1,6 +1,7 @@
 //: generics/ExplicitTypeSpecification.java
-import typeinfo.pets.*;
+import pets.*;
 import java.util.*;
+import java.util.List;
 import net.mindview.util.*;
 
 public class ExplicitTypeSpecification {
