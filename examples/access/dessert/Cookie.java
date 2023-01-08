@@ -1,10 +1,13 @@
 //: access/dessert/Cookie.java
 // Creates a library.
-package access.dessert;
+package dessert;
 
 public class Cookie {
   public Cookie() {
-   System.out.println("Cookie constructor");
+    System.out.println("Cookie constructor");
   }
-  void bite() { System.out.println("bite"); }
-} ///:~
+
+  void bite() {
+    System.out.println("bite");
+  }
+} /// :~

@@ -2,6 +2,7 @@
 //: generics/BankTeller.java
 // A very simple bank teller simulation.
 import java.util.*;
+import java.util.List;
 import net.mindview.util.*;
 
 class Customer {

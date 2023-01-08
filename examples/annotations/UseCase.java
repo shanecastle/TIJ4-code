@@ -1,3 +1,5 @@
+package annotations;
+
 //: annotations/UseCase.java
 import java.lang.annotation.*;
 
@@ -5,5 +7,6 @@ import java.lang.annotation.*;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface UseCase {
   public int id();
+
   public String description() default "no description";
-} ///:~
+} /// :~

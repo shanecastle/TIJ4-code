@@ -1,3 +1,5 @@
+package annotations;
+
 //: annotations/SimulatingNull.java
 import java.lang.annotation.*;
 

@@ -1,5 +1,5 @@
 //: access/ImportedMyClass.java
-import access.mypackage.*;
+import mypackage.*;
 
 public class ImportedMyClass {
   public static void main(String[] args) {
