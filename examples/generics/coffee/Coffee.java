@@ -1,5 +1,5 @@
 //: generics/coffee/Coffee.java
-package generics.coffee;
+package coffee;
 
 public class Coffee {
   private static long counter = 0;

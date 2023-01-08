@@ -1,3 +1,3 @@
 //: generics/coffee/Mocha.java
-package generics.coffee;
+package coffee;
 public class Mocha extends Coffee {} ///:~
